@@ -1,0 +1,138 @@
+/* navbar */
+.navbar{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 55px;
+
+    background: #D9D9D9;
+}
+.navbar-brand{
+    font-style: italic;
+    font-family: 'Inter';
+    font-weight: 500px;
+}
+/* tutup navbar */
+
+.kata{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    text-align: center;
+
+    color: #000000;
+}
+.kata span{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    color: #000000;
+
+}
+.hero-section{
+    margin-top: 60px;
+}
+
+.cta{
+    margin-left: 150px;
+}
+.section-kata{
+    margin-left: 100px;
+}
+
+.btn-cta{
+    width: 130px;
+    height: 40px;
+    background: #FF8B37;
+    border-radius: 100px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: center;
+    transition: all 0.2s ease;
+    color: #000000;
+
+}
+.btn-cta:hover{
+    width: 160px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.skinaqua{
+    margin-top: 100px;
+}
+
+.skinaqua h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+
+}
+.sa1{
+    margin-left: 30px;
+}
+.ton{
+    transition: all 0.2s ease;
+}
+.ton:hover{
+    transform: scale(1.1);
+}
+
+.azarine {
+    margin-top: 120px;
+}
+
+.azarine h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+}
+
+.tun{
+    transition: all 0.2s ease;
+}
+.tun:hover{
+    transform: scale(1.1);
+}
+
+.wardah{
+    margin-top: 100px;
+}
+.wardah h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    color: #000000;
+}
+
+.wa{
+    transition: all 0.2s ease;
+}
+.wa:hover{
+    transform: scale(1.1);
+}
+
+.btn-submit{
+    margin-top: 80px;
+    width: 542px;
+    height: 48px;
+    background: #FF8B37;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    transition: all 0.2s ease;
+    color: #000000;
+
+}
+.btn-submit:hover{
+    width: 640px;
+}

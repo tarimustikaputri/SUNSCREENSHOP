@@ -1,0 +1,88 @@
+/* navbar */
+.navbar{
+    box-sizing: border-box;
+    width: 1440px;
+    height: 55px;
+
+    background: #D9D9D9;
+}
+.navbar-brand{
+    font-style: italic;
+    font-family: 'Inter';
+    font-weight: 500px;
+}
+/* tutup navbar */
+
+/* booking */
+.produk{
+    margin-top: 90px;
+}
+.kata{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 80px;
+}
+/* tutup booking */
+
+/* info */
+.information{
+    margin-top: 80px;
+}
+.infohead{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+    color: #000000;
+
+}
+.infoinput{
+    padding-left: 10px;
+    border: none;
+    width: 540px;
+    height: 40px;
+    border-radius: 6px;
+    background: #D9D9D9;
+}
+/* tutup info */
+
+
+.btn-warning{
+    margin-top: 80px;
+    width: 542px;
+    height: 50px;
+    background: #FF8B37;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    transition: all 0.2s ease;
+}
+.btn-warning:hover{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-info{
+    width: 542px;
+    height: 50px;
+    background: #FF8B37;
+    border-radius: 10px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-align: center;
+    color: #000000;
+    transition: all 0.2s ease
+}
+.btn-info:hover{
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
